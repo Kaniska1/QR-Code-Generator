@@ -15,5 +15,6 @@ Simple QR code generator website. Built to apply &amp; practice some concepts
    ```bash
    node index.js
 3. Enter the URL when prompted:
+   ```
    ? Type in your URL:
     https://example.com
